@@ -30,8 +30,7 @@ param applicationInsightsName string = '${prefix}appisg'
 
 param openAiSkuName string = 'S0'
 
-param gptDeploymentName string = 'davinci'
-param gptModelName string = 'text-davinci-003'
+
 param chatGptDeploymentName string = 'chat'
 param chatGptModelName string = 'gpt-35-turbo'
 param textEmbeddingDeploymentName string = 'text-embedding-ada-002'
