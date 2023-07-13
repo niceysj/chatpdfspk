@@ -835,10 +835,6 @@
 			  "value": "chat"
 			},
 			{
-			  "name": "OpenAiDavinci",
-			  "value": "davinci"
-			},
-			{
 			  "name": "OpenAiDocContainer",
 			  "value": "chatpdf"
 			},
